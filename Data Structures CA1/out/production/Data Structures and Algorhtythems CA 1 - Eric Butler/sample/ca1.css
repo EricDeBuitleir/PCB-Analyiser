@@ -1,0 +1,9 @@
+#list-view {
+    background: black;
+    color: chartreuse;
+}
+
+#name{
+
+    -fx-background-colour: transparent;
+}
